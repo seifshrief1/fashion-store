@@ -1,0 +1,12 @@
+UI/UX => Done
+Authentication => Done
+handle Pages (if not admin => redirect to home page , if admin => redirect to admin page) =>Done
+CRUD (Create , Read , Update , Delete) => Done
+Display to user => Done
+
+
+User Functionality (handle cart , search & filter , checkout) =>
+
+Admin:
+  Recived Orders & handle them =>
+  Analytics =>
