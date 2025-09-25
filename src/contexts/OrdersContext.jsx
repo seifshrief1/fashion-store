@@ -46,7 +46,7 @@ export const OrderContextProvider = ({ children }) => {
     ) {
       handleGetOrders();
     }
-  }, [orders]);
+  }, [orders, location.pathname]);
   return (
     <OrderContext.Provider value={{ orders, addOrder }}>
       {children}
